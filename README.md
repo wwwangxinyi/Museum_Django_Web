@@ -4,14 +4,12 @@ Many museums have established their museum databases, hold digital exhibitions, 
 
 ## Databases
 Followings are the database that I would like to utilize (their websites can also be referred as similar websites):
-1. The British Museum, London, United Kingdom
-    - Website: https://www.britishmuseum.org/collection
-2. The Metropolitan Museum of Art, Washington, D.C., United States 
+1. The Metropolitan Museum of Art, Washington, D.C., United States 
     - Website: https://www.metmuseum.org/art/collection/search
     - API: https://metmuseum.github.io/
-3. Brooklyn Museum, New York, United States
+2. Brooklyn Museum, New York, United States
     - Website: https://www.brooklynmuseum.org/
-    - API: https://www.brooklynmuseum.org/api/v2/ 
+    - API: https://www.brooklynmuseum.org/api/v2/ S
 
 ## Data Structure
 Followings are the data that the collection related dataset would like to store.
